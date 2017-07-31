@@ -14,7 +14,7 @@ Requirement:
     
 Matlab Example:
     
-    You can just run the demo.m to get the evaluate result.
+    You can just run the demo.m to see the usage of the code.
 
 ## Citations
 
